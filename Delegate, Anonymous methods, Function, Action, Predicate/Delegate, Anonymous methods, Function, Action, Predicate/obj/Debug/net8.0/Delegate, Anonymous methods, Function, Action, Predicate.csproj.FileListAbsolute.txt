@@ -1,0 +1,1 @@
+C:\Users\User\OneDrive\Desktop\home_work\Delegate, Anonymous methods, Function, Action, Predicate\Delegate, Anonymous methods, Function, Action, Predicate\obj\Debug\net8.0\Delegate, Anonymous methods, Function, Action, Predicate.GeneratedMSBuildEditorConfig.editorconfig

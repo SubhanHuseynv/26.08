@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\home_work\\Delegate, Anonymous methods, Function, Action, Predicate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3A3CF5-0CD6-4F3D-A974-54099EEC9A0F}|Delegate, Anonymous methods, Function, Action, Predicate\\Delegate, Anonymous methods, Function, Action, Predicate.csproj|c:\\users\\user\\onedrive\\desktop\\home_work\\delegate, anonymous methods, function, action, predicate\\delegate, anonymous methods, function, action, predicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3A3CF5-0CD6-4F3D-A974-54099EEC9A0F}|Delegate, Anonymous methods, Function, Action, Predicate\\Delegate, Anonymous methods, Function, Action, Predicate.csproj|solutionrelative:delegate, anonymous methods, function, action, predicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3A3CF5-0CD6-4F3D-A974-54099EEC9A0F}|Delegate, Anonymous methods, Function, Action, Predicate\\Delegate, Anonymous methods, Function, Action, Predicate.csproj|c:\\users\\user\\onedrive\\desktop\\home_work\\delegate, anonymous methods, function, action, predicate\\delegate, anonymous methods, function, action, predicate\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3A3CF5-0CD6-4F3D-A974-54099EEC9A0F}|Delegate, Anonymous methods, Function, Action, Predicate\\Delegate, Anonymous methods, Function, Action, Predicate.csproj|solutionrelative:delegate, anonymous methods, function, action, predicate\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\home_work\\Delegate, Anonymous methods, Function, Action, Predicate\\Delegate, Anonymous methods, Function, Action, Predicate\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Delegate, Anonymous methods, Function, Action, Predicate\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\home_work\\Delegate, Anonymous methods, Function, Action, Predicate\\Delegate, Anonymous methods, Function, Action, Predicate\\Models\\Person.cs",
+              "RelativeToolTip": "Delegate, Anonymous methods, Function, Action, Predicate\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:59:57.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\home_work\\Delegate, Anonymous methods, Function, Action, Predicate\\Delegate, Anonymous methods, Function, Action, Predicate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate, Anonymous methods, Function, Action, Predicate\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\home_work\\Delegate, Anonymous methods, Function, Action, Predicate\\Delegate, Anonymous methods, Function, Action, Predicate\\Program.cs",
+              "RelativeToolTip": "Delegate, Anonymous methods, Function, Action, Predicate\\Program.cs",
+              "ViewState": "AgIAAAAAAACgmZmZmZkuwA8AAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:59:10.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
